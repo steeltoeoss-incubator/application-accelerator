@@ -1,3 +1,5 @@
+# application-accelerator is no longer actively maintained by VMware, Inc.
+
 # Tanzu Application Accelerator generators
 
 ##
